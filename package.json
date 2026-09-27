@@ -1,0 +1,25 @@
+{
+  "name": "examenparcial3_55824504",
+  "version": "1.0.0",
+  "description": "Examen parcial hecho por María José Morales López",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaMorales1234/ExamenParcial3_55824504.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MariaMorales1234/ExamenParcial3_55824504/issues"
+  },
+  "homepage": "https://github.com/MariaMorales1234/ExamenParcial3_55824504#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
