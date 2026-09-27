@@ -14,7 +14,7 @@ cd ExamenParcial3_55824504
 
 npm install          # instala todo lo que dice package.json
 
-node ./src/server.js          
+node server.js          
 ```
 
 Abre <http://localhost:3000>.
